@@ -1,1 +1,1 @@
-# courseraprojectsam
+# courseraproject
